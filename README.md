@@ -1,4 +1,4 @@
-# 🚀 End-to-End Machine Learning Project
+#  End-to-End Machine Learning Project
 
 ##  Project Overview
 This project demonstrates a complete Machine Learning pipeline:
